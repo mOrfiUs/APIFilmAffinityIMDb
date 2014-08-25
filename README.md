@@ -1,16 +1,22 @@
-Presentaci髇
-Librer韆 que proporciona un interfaz de programaci髇 gen閞ica (API) para IMDb y FilmAffinity 
+Presentaci贸n
+Librer铆a que proporciona un interfaz de programaci贸n gen茅rica (API) para IMDb y FilmAffinity 
 
-Busca y extrae informaci髇 detallada para posteriormente presentarla en sus distintos apartados (T韙ulo, Director, etc.)
-Se presenta como una librer韆 COM+, por lo que una vez instalada es accesible desde cualquier plataforma de programaci髇 Windows, como VBA (Word, Excel, Access), JavaScript, VBS, Delphi o el vetusto Visual Basic 6.0. Tambi閚 es accesible desde ASP, .NET, y desde android (a trav閟 de mono, etc).
+Busca y extrae informaci贸n detallada para posteriormente presentarla en sus distintos apartados (T铆tulo, Director, etc.)
+Se presenta como una librer铆a COM+, por lo que una vez instalada es accesible desde cualquier plataforma de programaci贸n Windows, como VBA (Word, Excel, Access), JavaScript, VBS, Delphi o el vetusto Visual Basic 6.0. Tambi茅n es accesible desde ASP, .NET, y desde android (a trav茅s de mono, etc).
 
-Caracter韘ticas
+Caracter铆sticas
 desarrollada en c# (con SharpDevelop 5.0 y VS Express 2013)
 
-Instalaci髇
-En la p醙ina web y los foros de AMC y MediaPortal existe informaci髇 detallada de su instalaci髇 y funcionamiento.
+Instalaci贸n
+En la p谩gina web y los foros de AMC y MediaPortal existe informaci贸n detallada de su instalaci贸n y funcionamiento.
 
+<br>
 Requisitos
-Instalaci髇
+<br>
+Instalaci贸n
+<br>
 Ejemplos
-V韉eos
+<br>
+V铆deos
+<br>
+<a href="http://youtu.be/Z8dgZwGwL60">V铆deo</a>
